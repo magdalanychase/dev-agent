@@ -4,9 +4,9 @@ A terminal based coding agent
 ### Project Timeline:
 1. Create a UI<br>
     1.1 Welcome page
-        - Welcome Banner
-        - Commands
-        - Prompt Input
+    - Welcome Banner
+    - Commands
+    - Prompt Input
     1.2 Implement AI<br>
         Gemini 2.5 Flash Lite<br>
     1.3 Virtualized Content Window<br>
