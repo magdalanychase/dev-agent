@@ -1,4 +1,4 @@
 # dev-agent
 This is a Terminal based coding agent.
 
-This uses [Gemini](https://deepmind.google/models/gemini/flash-lite/)
+This uses [Gemini](https://deepmind.google/models/gemini/flash-lite/) and the Vercel AI SDK.
