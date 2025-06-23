@@ -1,4 +1,4 @@
-** DEV AGENT **
+**DEV AGENT**
 This is a terminal based coding agent meant to assist with accurate code completions.
 
 This project uses:
