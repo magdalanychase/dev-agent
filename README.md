@@ -1,4 +1,4 @@
-### DEV AGENT beta
+### DEV AGENT
 This is a terminal based coding agent
 
 To Do:
