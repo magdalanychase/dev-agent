@@ -2,13 +2,13 @@
 A terminal based coding agent
 
 ### Project Timeline:
-Create a UI
-- Welcome page
-- 2. Implement AI
-- 3. Virtualized Content Window with key based scrolling
+1. Create a UI
+    1.1 Welcome page
+    1.2 Implement AI
+    1.3 Virtualized Content Window with key based scrolling
 
-Extend the Backend:
-1. LSP Server for accurate code generation
+2. Extend the Backend:
+    2.1 LSP Server for accurate code generation
 
-Optimizations:
-1. Minimize rerenders
+3. Optimizations:
+    3.1 Minimize rerenders
