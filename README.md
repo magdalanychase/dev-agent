@@ -4,11 +4,16 @@ A terminal based coding agent
 ### Project Timeline:
 1. Create a UI<br>
     1.1 Welcome page<br>
+    - Welcome to the DEV AGENT in beta
+    - Commands
+    - Prompt Input
     1.2 Implement AI<br>
+    - Gemini 2.5 Flash Lite
     1.3 Virtualized Content Window<br>
     - key-based scrolling<br>
 2. Extend the Backend<br>
     2.1 File Editing<br>
+    2.2 Planning
     2.2 LSP Server for accurate code generation<br>
 3. Optimizations<br>
     3.1 Minimize rerenders<br>
