@@ -1,5 +1,5 @@
 ### DEV AGENT
-This is a terminal based coding agent meant to assist with accurate code generation
+This is a terminal based coding agent
 
 To Do:
 
