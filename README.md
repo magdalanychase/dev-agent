@@ -1,7 +1,7 @@
 ### DEV AGENT
 A terminal based coding agent
 
-Timeline:
+### Project Timeline:
 #### Create a UI
 1. Welcome page
 2. Implement AI
