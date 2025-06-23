@@ -3,10 +3,10 @@ A terminal based coding agent
 
 ### Project Timeline:
 1. Create a UI<br>
-  1.1 Welcome page<br>
-    1.1.1 Welcome Banner<br>
-    1.1.2 Commands<br>
-    1.1.3 Prompt Input<br>
+- 1.1 Welcome page<br>
+  - 1.1.1 Welcome Banner<br>
+  - 1.1.2 Commands<br>
+  - 1.1.3 Prompt Input<br>
   1.2 Implement AI<br>
     1.2.1 Gemini 2.5 Flash Lite<br>
   1.3 Virtualized Content Window<br>
