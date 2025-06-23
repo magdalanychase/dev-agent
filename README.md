@@ -6,10 +6,10 @@ This project uses:
 - Vercel AI SDK
 
 To Do:
-## Create a UI
-Welcome page
-Implement AI
-Virtualized Content Window with key based scrolling
-## Extend the Backend
-    - [ ] LSP Server for accurate code generation
-## Optimize and minimize everything
+### Create a UI
+- Welcome page
+- Implement AI
+- Virtualized Content Window with key based scrolling
+### Extend the Backend
+- LSP Server for accurate code generation
+### Optimize and minimize everything
