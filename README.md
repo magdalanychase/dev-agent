@@ -26,3 +26,6 @@ Project Timeline:
     })
   [ ] 3.3 Prompt Engineering
 </pre>
+
+### Documentation
+See documentation at magdalanychase.github.io
