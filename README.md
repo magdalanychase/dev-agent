@@ -28,4 +28,4 @@ Project Timeline:
 </pre>
 
 ### Documentation
-See documentation at magdalanychase.github.io
+See documentation [here](https://magdalanychase.github.io/dev-agent/)
