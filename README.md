@@ -20,4 +20,8 @@ Project Timeline:
 [ ] 3. Optimizations
     [ ] 3.1 Minimize rerenders
     [ ] 3.2 Smooth Streaming
+    expermiental_transform: smoothStream({
+      delayInMs: 20,
+      chunking: word
+    })
 </pre>
