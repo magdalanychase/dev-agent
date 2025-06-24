@@ -14,14 +14,15 @@ Project Timeline:
   [ ] 1.3 Virtualized Content Window
     [ ] 1.3.1 Key-based Scrolling
 [ ] 2. Extend the Backend
-    [ ] 2.1 File Editing
-    [ ] 2.2 Planning
-    [ ] 2.3 LSP Server for accurate code generation
+  [ ] 2.1 File Editing
+  [ ] 2.2 Planning
+  [ ] 2.3 LSP Server for accurate code generation
 [ ] 3. Optimizations
-    [ ] 3.1 Minimize rerenders
-    [ ] 3.2 Smooth Streaming
-      expermiental_transform: smoothStream({
-        delayInMs: 20,
-        chunking: word
-      })
+  [ ] 3.1 Minimize rerenders
+  [ ] 3.2 Smooth Streaming
+    expermiental_transform: smoothStream({
+      delayInMs: 20,
+      chunking: word
+    })
+  [ ] 3.3 Prompt Engineering
 </pre>
