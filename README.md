@@ -3,6 +3,7 @@ A terminal based coding agent
 
 <pre>
 Project Timeline:
+
 1. Create a UI
   1.1 Welcome page
     1.1.1 Welcome Banner
