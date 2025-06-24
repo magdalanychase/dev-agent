@@ -1,5 +1,5 @@
 ### DEV AGENT
-A terminal based coding agent
+A web based coding agent
 
 <pre>
 Project Timeline:
